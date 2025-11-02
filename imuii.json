@@ -1,0 +1,11 @@
+{
+  "name": "dappp",
+  "framework": "react",
+  "language": "javascript",
+  "buildCommand": "npm install && npm run build",
+  "startCommand": "npm start",
+  "domain": "dappp",
+  "email": "l@gmail.com",
+  "secretKey": "imuii_2de7f066e33abdf642f9beb9aa4f8878b15095b99cff43ae806758d4cce3d256",
+  "repoUrl": "https://github.com/Lab-Sisjarkom-IMUII/dappp-aa4058a6.git"
+}
