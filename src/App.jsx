@@ -7,7 +7,7 @@ function App() {
         <div className="app-content">
           {/* IM-UII Header */}
           <div className="app-header">
-            <h1 className="app-title">IM-UII GAES</h1>
+            <h1 className="app-title">IM-UII GAES KEBON</h1>
             <p className="app-subtitle">Welcome to Your Project</p>
           </div>
 
